@@ -1,3 +1,4 @@
+runtime! config/**/*.vim
 " réglages plus actuels (enlever VI par défaut)
 set nocompatible
 " Initialisation de pathogen
